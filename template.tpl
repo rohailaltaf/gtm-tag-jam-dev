@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "jam.dev",
-  "categories": ["UTILITY"]
+  "categories": ["UTILITY"], 
   "brand": {
     "id": "brand_dummy",
     "displayName": "jam.dev",
