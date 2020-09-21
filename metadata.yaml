@@ -1,5 +1,5 @@
 homepage: "https://jam.dev"
 documentation: "https:/jam.dev"
 versions:
-  - sha: fdb8eb9b98a7d24805ff9102dfe6f566e3d4154f
+  - sha: 1240e244b6673736cc519714f31eafe51bccd087
     changeNotes: Initial release.
